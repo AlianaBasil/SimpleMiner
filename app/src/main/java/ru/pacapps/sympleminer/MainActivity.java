@@ -1,7 +1,6 @@
 package ru.pacapps.sympleminer;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.preference.PreferenceManager;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
