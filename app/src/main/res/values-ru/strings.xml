@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SympleMiner</string>
+    <string name="settings">Настройки</string>
+    <string name="about">Что это?</string>
+    <string name="start">Начать</string>
+    <string name="about_text">Приветствую, %username%! Ты один из тех счастливчиков, кто попал на закрытый бета-тест! Нажми "начать" чтобы запустить процесс майнинга."
+
+"Simple Miner это самый простой майнер Биткоинов на Android от комманды @PacApps (telegram)"
+
+"Мы(PacApps) не несем никакой ответственности за ваши действия! Все только на ваш страх и риск</string>
+    <string name="ok">ОК</string>
+    <string name="balance_title">Баланс:</string>
+</resources>
